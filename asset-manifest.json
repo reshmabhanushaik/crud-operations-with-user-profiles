@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/crud-operations-with-user-profiles/static/css/main.da3089f3.css",
+    "main.js": "/crud-operations-with-user-profiles/static/js/main.748e8f5a.js",
+    "index.html": "/crud-operations-with-user-profiles/index.html",
+    "main.da3089f3.css.map": "/crud-operations-with-user-profiles/static/css/main.da3089f3.css.map",
+    "main.748e8f5a.js.map": "/crud-operations-with-user-profiles/static/js/main.748e8f5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da3089f3.css",
+    "static/js/main.748e8f5a.js"
+  ]
+}
